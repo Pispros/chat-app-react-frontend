@@ -1,5 +1,5 @@
 # Backend
-Found [here](https://github.com/davidzas/back-end-socketio)
+Found [here](https://github.com/Pispros/chat-app-react-backend)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
